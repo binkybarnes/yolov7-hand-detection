@@ -1,0 +1,11 @@
+# hand_detection.yaml
+train: /content/yolov7-hand-detection/data/images/train
+val: /content/yolov7-hand-detection/data/images/val
+test: /content/yolov7-hand-detection/data/images/test
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['hand']
+
